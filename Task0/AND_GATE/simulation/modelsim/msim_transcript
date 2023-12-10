@@ -1,0 +1,47 @@
+# do AND_GATE_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying /home/aditi/Eyantra/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+/home/aditi/Eyantra/TASKS/Task0/AND_GATE {/home/aditi/Eyantra/TASKS/Task0/AND_GATE/AND_GATE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 19:43:43 on Sep 21,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/aditi/Eyantra/TASKS/Task0/AND_GATE" /home/aditi/Eyantra/TASKS/Task0/AND_GATE/AND_GATE.v 
+# -- Compiling module AND_GATE
+# 
+# Top level modules:
+# 	AND_GATE
+# End time: 19:43:43 on Sep 21,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+/home/aditi/Eyantra/TASKS/Task0/AND_GATE {/home/aditi/Eyantra/TASKS/Task0/AND_GATE/and_gate_test_bench.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 19:43:43 on Sep 21,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/aditi/Eyantra/TASKS/Task0/AND_GATE" /home/aditi/Eyantra/TASKS/Task0/AND_GATE/and_gate_test_bench.v 
+# -- Compiling module and_gate_test_bench
+# 
+# Top level modules:
+# 	and_gate_test_bench
+# End time: 19:43:43 on Sep 21,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  and_gate_test_bench
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" and_gate_test_bench 
+# Start time: 19:43:44 on Sep 21,2023
+# Loading work.and_gate_test_bench
+# Loading work.AND_GATE
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# End time: 19:44:41 on Sep 21,2023, Elapsed time: 0:00:57
+# Errors: 0, Warnings: 0

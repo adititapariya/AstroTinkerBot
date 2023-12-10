@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aditi/Eyantra/TASKS/Task0/AND_GATE/simulation/qsim
+vAND_GATE
+Z1 !s110 1695306002
+!i10b 1
+!s100 CW?><FN1Ni77hmBGFOoZT3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ia346kePnaW>cH^C3EioES3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1695306002
+Z5 8AND_GATE.vo
+Z6 FAND_GATE.vo
+!i122 2
+L0 32 89
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1695306002.000000
+Z9 !s107 AND_GATE.vo|
+Z10 !s90 -work|work|AND_GATE.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@a@n@d_@g@a@t@e
+vAND_GATE_vlg_vec_tst
+R1
+!i10b 1
+!s100 eR=7WE0ZXb@c5;@f4feZ10
+R2
+In55TgNog3YCNM7B@FX0782
+R3
+R0
+w1695306001
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 3
+L0 30 36
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12
+n@a@n@d_@g@a@t@e_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 cG=Ao3<3b_1=MXMOM393M0
+R2
+I]HB0E:S0f5?^3lEYLT5Af3
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 122 34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12

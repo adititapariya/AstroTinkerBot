@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aditi/Eyantra/TASKS/Task0/AND_GATE/simulation/modelsim
+vAND_GATE
+!s110 1695305623
+!i10b 1
+!s100 a4CNi7KV9X:DKio>Y[o4Z2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IN6FU>H99P5W7B<m]D5P:@1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695304688
+8/home/aditi/Eyantra/TASKS/Task0/AND_GATE/AND_GATE.v
+F/home/aditi/Eyantra/TASKS/Task0/AND_GATE/AND_GATE.v
+!i122 0
+L0 1 8
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1695305623.000000
+!s107 /home/aditi/Eyantra/TASKS/Task0/AND_GATE/AND_GATE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/aditi/Eyantra/TASKS/Task0/AND_GATE|/home/aditi/Eyantra/TASKS/Task0/AND_GATE/AND_GATE.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+/home/aditi/Eyantra/TASKS/Task0/AND_GATE
+Z7 tCvgOpt 0
+n@a@n@d_@g@a@t@e
+vand_gate_test_bench
+!s110 1695305624
+!i10b 1
+!s100 =ITk38bh@6c?oUeffiSY^1
+R1
+I1LW2bdVUgZBfT:3@la>[n3
+R2
+R0
+w1695305600
+8/home/aditi/Eyantra/TASKS/Task0/AND_GATE/and_gate_test_bench.v
+F/home/aditi/Eyantra/TASKS/Task0/AND_GATE/and_gate_test_bench.v
+!i122 1
+L0 2 17
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aditi/Eyantra/TASKS/Task0/AND_GATE/and_gate_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/aditi/Eyantra/TASKS/Task0/AND_GATE|/home/aditi/Eyantra/TASKS/Task0/AND_GATE/and_gate_test_bench.v|
+!i113 1
+R5
+R6
+R7

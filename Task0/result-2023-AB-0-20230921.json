@@ -1,0 +1,21 @@
+{
+    "generate": true,
+    "distro": {
+        "machine": "x86_64",
+        "version": "22.04.3",
+        "name": "Ubuntu"
+    },
+    "wsl": false,
+    "self-os-declaration": true,
+    "apt": {
+        "packages": {
+            "installed": [
+                "gcc-riscv64-unknown-elf/jammy,now",
+                "10.2.0-0ubuntu1"
+            ]
+        }
+    },
+    "meta": {
+        "evaluation_time": 0.287616491317749
+    }
+}
