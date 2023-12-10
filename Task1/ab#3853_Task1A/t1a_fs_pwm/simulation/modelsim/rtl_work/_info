@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim
+vfrequency_scaling
+Z1 !s110 1697479967
+!i10b 1
+!s100 1N1ao5[bS3`:;;JhVLcUO1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKnK[oCLNolo;6BeNW3]_M2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1697386637
+8/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/frequency_scaling.v
+F/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/frequency_scaling.v
+!i122 1
+L0 20 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1697479967.000000
+!s107 /home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/frequency_scaling.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm|/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/frequency_scaling.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm
+Z8 tCvgOpt 0
+vpwm_generator
+R1
+!i10b 1
+!s100 aPBYNzROjmlBSG^j6SGN30
+R2
+I84i10bVORTnO:n7l6>46C1
+R3
+R0
+w1697479950
+8/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/pwm_generator.v
+F/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/pwm_generator.v
+!i122 0
+L0 18 48
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/pwm_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm|/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/pwm_generator.v|
+!i113 1
+R6
+R7
+R8
+vt1a_fs_pwm_bdf
+R1
+!i10b 1
+!s100 QmYW6@Qcm;YRX0Ih`S<Jl3
+R2
+I98Ekh0L[igM<XQiV7h32>3
+R3
+R0
+w1697384469
+8/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/t1a_fs_pwm_bdf.v
+F/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/t1a_fs_pwm_bdf.v
+!i122 2
+L0 20 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/t1a_fs_pwm_bdf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm|/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/t1a_fs_pwm_bdf.v|
+!i113 1
+R6
+R7
+R8
+vtb
+R1
+!i10b 1
+!s100 ]58QFm9M=bVik3dYP1ggf1
+R2
+I^I^aRE_SJUCnXNah;[Rzo1
+R3
+R0
+w1695282146
+8/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v
+F/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v
+!i122 3
+L0 4 93
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim|/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim
+R8

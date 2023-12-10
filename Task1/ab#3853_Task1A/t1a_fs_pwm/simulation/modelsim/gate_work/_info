@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim
+vhard_block
+Z1 !s110 1697384887
+!i10b 1
+!s100 @JU:?cYHY]76>J;le@Pfd2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjFj>mL2P`ldA6d__P`=lC2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1697384796
+Z5 8t1a_fs_pwm.vo
+Z6 Ft1a_fs_pwm.vo
+!i122 0
+L0 728 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1697384887.000000
+Z9 !s107 t1a_fs_pwm.vo|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|t1a_fs_pwm.vo|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work +incdir+.
+Z13 tCvgOpt 0
+vt1a_fs_pwm_bdf
+R1
+!i10b 1
+!s100 >IHEV`Z3HaP:f6lRZ@dgT2
+R2
+IVLOnk]FYGg2oQcBZ5LhTc0
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 32 695
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vtb
+R1
+!i10b 1
+!s100 ]58QFm9M=bVik3dYP1ggf1
+R2
+I^I^aRE_SJUCnXNah;[Rzo1
+R3
+R0
+w1695282146
+8/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v
+F/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v
+!i122 1
+L0 4 93
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim|/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim/tb.v|
+!i113 1
+R11
+!s92 -vlog01compat -work work +incdir+/home/aditi/Eyantra/TASKS/Task1/t1a_fs_pwm/simulation/modelsim
+R13
